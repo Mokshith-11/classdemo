@@ -1,2 +1,7 @@
 this a sample file
+<<<<<<< HEAD
 from vignesh
+=======
+
+Hi from theja
+>>>>>>> f68cae9568fdbff4769958645f611b28754ae0ac
